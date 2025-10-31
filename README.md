@@ -4,19 +4,6 @@ I am a developer experienced in **PHP**, **Shell scripting**, and **DevOps**, wi
 - Automating deployment and infrastructure management.
 - Developing PHP libraries and packages published on Packagist.
 
-
-## 📌 Featured Projects
-<table>
-<tr>
-  <td><a href="https://github.com/ostap-mykhaylyak/lxd-socket"><b>lxd-socket</b></a></td>
-  <td>📦 PHP library to interact with <b>LXD</b> via socket.</td>
-</tr>
-<tr>
-  <td><a href="https://gist.github.com/ostap-mykhaylyak/4e2fd8bcebfbb3f7b1a3f5bcf445a50c"><b>create-nginx-proxy.sh</b></a></td>
-  <td>⚡ Bash script for NGINX proxy with SSL and HTTP/3 support.</td>
-</tr>
-</table>
-
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
